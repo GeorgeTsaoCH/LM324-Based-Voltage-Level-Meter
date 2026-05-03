@@ -84,7 +84,7 @@ After you upload your images, you can uncomment or keep sections like these:
 -->
 
 ## Report
-Full project report: [`report/LM324-Based-Voltage-Level-Meter-Report.docx`](report/LM324-Based-Voltage-Level-Meter-Report.docx)
+Full project report: [`LM324-Based-Voltage-Level-Meter-Report.docx`](report/LM324-Based-Voltage-Level-Meter-Report.docx)
 
 ## Resume Version
 For resume use, this project can be summarized as:
