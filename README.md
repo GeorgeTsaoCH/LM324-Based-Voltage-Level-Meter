@@ -41,50 +41,30 @@ This project was valuable not only as a design exercise, but also as a **hardwar
 3. **Validation is part of design**  
    Final resistor values were adjusted to bring the highest threshold into a usable operating range.
 
-## Repository Structure
-```text
-LM324-Based-Voltage-Level-Meter/
-├── README.md
-├── docs/
-│   ├── simulation.png
-│   ├── breadboard.jpg
-│   ├── schematic.png
-│   ├── pcb-layout.png
-│   ├── pcb-3d-front.png
-│   ├── pcb-3d-rear.png
-│   └── final-board.jpg
-└── report/
-    └── LM324-Based-Voltage-Level-Meter-Report.docx
-```
+## Project Images
 
-## Suggested Images to Add
-Place these inside the `docs/` folder and then update the image links below:
-- simulation result
-- breadboard setup
-- schematic screenshot
-- PCB layout
-- 3D PCB views
-- final soldered board
+### Simulation
+![Simulation result](./simulation.png)
 
-## Example Image Section
-After you upload your images, you can uncomment or keep sections like these:
+### Breadboard Prototype
+![Breadboard prototype](./breadboard.jpg)
 
-<!--
-## Simulation
-![Simulation result](docs/simulation.png)
+### Schematic
+![Schematic](./schematic.png)
 
-## Breadboard Prototype
-![Breadboard prototype](docs/breadboard.jpg)
+### PCB Layout
+![PCB layout](./pcb-layout.png)
 
-## PCB Layout
-![PCB layout](docs/pcb-layout.png)
+### 3D PCB Views
+![PCB 3D front](./pcb-3d-front.png)
+![PCB 3D rear](./pcb-3d-rear.png)
 
-## Final PCB
-![Final soldered board](docs/final-board.jpg)
--->
+### Final Soldered PCB
+![Final soldered board front](./final-board.jpg)
+![Final soldered board rear](./final-board-rear.jpg)
 
 ## Report
-Full project report: [`LM324-Based-Voltage-Level-Meter-Report.docx`](LM324-Based-Voltage-Level-Meter-Report.docx)
+Full project report: [PDF](./LM324-Based-Voltage-Level-Meter-Report.pdf) | [DOCX](./LM324-Based-Voltage-Level-Meter-Report.docx)
 
 ## Resume Version
 For resume use, this project can be summarized as:
